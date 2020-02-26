@@ -1,5 +1,8 @@
 aadddd
+<<<<<<< HEAD
 dhfdkfkhs edit by hot_fix
+dhfdkfkhs edit by master
+>>>>>>> master
  dhsk
 dddddd
  feoqeeeci::::
